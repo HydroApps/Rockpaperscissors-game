@@ -6,21 +6,21 @@
 
 ### Table of contents:
 
- 1.About
+ 1.[About](https://github.com/HydroApps/Rockpaperscissors-game#about)
  
- 2.Installation/Development
+ 2.[Installation/Development](https://github.com/HydroApps/Rockpaperscissors-game#installation)
  
- 3.User guide
+ 3.[User guide](https://github.com/HydroApps/Rockpaperscissors-game#%EF%B8%8Fuser-guide)
  
- 4.Known issues
+ 4.[Known issues](https://github.com/HydroApps/Rockpaperscissors-game#known-issues)
  
- 5.Screenshots
+ 5.[Screenshots](https://github.com/HydroApps/Rockpaperscissors-game#-screenshots-v-100-in-cmder-console)
  
- 6.All versions
+ 6.[All versions](https://github.com/HydroApps/Rockpaperscissors-game#-all-versionsreleases)
  
- 7.License 
+ 7.[License](https://github.com/HydroApps/Rockpaperscissors-game#license-) 
  
- 8.Contact me 
+ 8.[Contact me](https://github.com/HydroApps/Rockpaperscissors-game#contact-me-) 
  
 #### 📝About
  Now you can play rock 🪨 paper📃 scissors✂️ in your pc and that too through your 💻terminal. The application is fully portable.
