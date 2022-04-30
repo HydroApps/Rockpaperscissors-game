@@ -1,3 +1,7 @@
+[![Setup file](https://img.shields.io/github/downloads/atom/atom/total.svg)]()
+
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Rockpaperscissors-game&width=2000&height=500)](https://github.com/Akshay090/svg-banners)
+
 ## Rockpaperscissors-game
 
 ### Table of contents:
@@ -35,7 +39,7 @@ Download setup file by clicking the below link:
  ```
  --The file will run successfully. If its not working refer 'Known issues ' for solutions.
  
-  ⚙️ Development 
+  ⚙️🛠️ Development 
   
   <mark> Installation of Python 3.9 is recommended.If you are using low end pc download portable python; Winpython from https://winpython.github.io </mark>
   
