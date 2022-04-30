@@ -1,4 +1,5 @@
 [![Setup file](https://img.shields.io/github/downloads/atom/atom/total.svg)]()
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Rockpaperscissors-game&width=2000&height=500)](https://github.com/Akshay090/svg-banners)
 
