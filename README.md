@@ -96,7 +96,7 @@ pip install auto-py-to-exe
    
    Make sure your os support exe files : https://en.wikipedia.org/wiki/.exe
    
- #### 📸 Screenshots [V 0.1.0] in cmder console 
+ #### 📸 Screenshots [V 1.0.0] in cmder console 
  1.![Screenshot (146)](https://user-images.githubusercontent.com/101416024/166097263-8a238e14-3b5f-479f-b49c-e340bf93b538.png)
  2.![Screenshot (147)](https://user-images.githubusercontent.com/101416024/166097274-62609af1-0db4-4780-9cb9-dacf9fd1ea79.png)
  3.![Screenshot (148)](https://user-images.githubusercontent.com/101416024/166097281-5416ceef-7cab-4660-a857-3347d5509182.png)
