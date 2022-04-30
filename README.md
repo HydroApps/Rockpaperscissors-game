@@ -102,6 +102,30 @@ pip install auto-py-to-exe
  3.![Screenshot (148)](https://user-images.githubusercontent.com/101416024/166097281-5416ceef-7cab-4660-a857-3347d5509182.png)
  4.![Screenshot (149)](https://user-images.githubusercontent.com/101416024/166097287-6285f7ad-3cc3-4e55-bcb8-815669d94f41.png)
  5.![Screenshot (150)](https://user-images.githubusercontent.com/101416024/166097296-792d121e-d589-4697-9127-dead25adea01.png)
+ 
+ #### 📂 All versions/Releases 
+   
+  Gdrive folder link:  [💾](https://drive.google.com/drive/folders/1A32aw4WDE972QZqB89wT6JDSQQpCkzwk?usp=sharing)
+   
+   
+  Version will be given in Version file [open in browser]
+        
+#### 📌License : 
+
+    
+     📃Licensed as Open Source under GNU General Public License v3.0. 
+       For more info refer LICENSE.md
+    
+
+#### 📞Contact me : 
+  You are free👍 to contact me regarding any issues/problems in any of my apps 🔥: 
+  
+  --Telegram: https://t.me/Loki_Laufeyson_2473  
+
+  --Discord: Loki_Laufeyson#2473
+
+  --Join our Telegram Channel for news of new updates. [https://t.me/HydroApps616]
+
 
       
  
