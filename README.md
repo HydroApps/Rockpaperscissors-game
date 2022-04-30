@@ -3,7 +3,7 @@
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Rockpaperscissors-game&width=2000&height=500)](https://github.com/Akshay090/svg-banners)
 
-## Rockpaperscissors-game
+## Rockpaperscissors-game v1.0
 
 ### Table of contents:
 
