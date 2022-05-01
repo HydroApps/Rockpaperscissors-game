@@ -78,7 +78,7 @@ pip install auto-py-to-exe
   
   * Paper vs scissor->scissor wins
   
- #### 📌Known issues
+ #### 📌Known issues [https://github.com/HydroApps/Rockpaperscissors-game/issues]
  
   --ValueError: invalid literal for int() with base 10: 'd' ['d' or any other string value]  (when entering choice)
     
